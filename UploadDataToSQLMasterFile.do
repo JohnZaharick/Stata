@@ -74,7 +74,5 @@
 ********************************************************************************
 
 *Document the end of the file in the log, then close the log file.
-
 	display "${DoFileName}.do has completed successfully"
-
 	log close
